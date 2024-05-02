@@ -47,7 +47,7 @@
     "src/layout/HTMLLayout.js",
     "src/components/Header.js",
     "src/components/Footer.js",
-    "src/app/page.tsx",
+    "src/app/page.jsx",
     "src/app/test/test.js",
     "src/components/login/pages.jsx"
   ],
